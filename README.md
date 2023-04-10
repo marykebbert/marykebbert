@@ -23,4 +23,4 @@ I am always looking for new challenges and opportunities to apply my skills and 
 
 ### Get in Touch
 
-If you're interested in working together or just want to chat about data science, feel free to reach out to me on [LinkedIn](linkedin.com/in/mary-ebbert). I'd love to connect with you!
+If you're interested in working together or just want to chat about data science, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mary-ebbert/). I'd love to connect with you!
